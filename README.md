@@ -184,7 +184,7 @@ The project uses the **Seattle Airbnb Open Data** available on Kaggle
 - **Bar Chart** → ADR Variation by Season (Winter, Spring, Summer, Fall).
 
 - **KPI Card** → Peak Month Occupancy %.
-![image](Marketing.png)
+![image](Image Oct 3, 2025, 05_00_30 AM.png)
 Here are key insights based on the Seattle Airbnb dashboard
 1. Overall Market Performance
 
