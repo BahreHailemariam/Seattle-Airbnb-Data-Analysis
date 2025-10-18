@@ -235,3 +235,9 @@ Dynamic pricing strategies can maximize revenue during peak while minimizing vac
 - **Growth opportunities exist in underserved areas** with lower density but higher demand.
 
 - Investors should avoid oversaturated markets and focus on emerging, high-demand zones.
+
+## 👤 Author
+
+**Bahre Hailemariam**\
+📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
+🔗 [LinkedIn](#) \| [Portfolio](#) \| [GitHub](#)
