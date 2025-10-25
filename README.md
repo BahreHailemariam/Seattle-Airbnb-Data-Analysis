@@ -237,7 +237,6 @@ Dynamic pricing strategies can maximize revenue during peak while minimizing vac
 - Investors should avoid oversaturated markets and focus on emerging, high-demand zones.
 
 ## 👤 Author
-
-**Bahre Hailemariam**\
-📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
-🔗 [LinkedIn](#) \| [Portfolio](#) \| [GitHub](#)
+**Bahre Hailemariam**  
+📍 _Data Analyst & BI Developer_  
+📩 [Email Adress](bahre.hail@gmail.com) | 🌐[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) | 💼[LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/) | 📊[GitHub](https://github.com/BahreHailemariam)
